@@ -12,7 +12,7 @@ footer, header, nav {
 }
 
 body {
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
 }
 main {
   margin: 0 auto;
@@ -135,7 +135,7 @@ blockquote {
   color: #666;
   margin-bottom: 20px;
   padding: 0 0 0 20px;
-  border-left: 3px solid #bbb;
+  border-left: 3px solid #7346A7;
 }
 
 ul {
