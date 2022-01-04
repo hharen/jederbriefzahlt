@@ -227,7 +227,7 @@ footer a {
   }
 
   .hero {
-    min-height: 250px;
+    height: 100vh;
   }
 
   h1, .title {
