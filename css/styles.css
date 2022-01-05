@@ -242,3 +242,17 @@ footer a {
     font-size: 1.3em;
   }
 }
+
+@media screen and (max-width: 380px) {
+  h1, .title {
+    font-size: 1.3em;
+  }
+
+  h2, .italic, .tagline-btn a {
+    font-size: 1.1em;
+  }
+
+  .tagline, .big {
+    font-size: 1.2em;
+  }
+}
